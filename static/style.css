@@ -387,10 +387,7 @@ body.dark-mode {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-topgit add .
-git commit -m "Mensagem explicando a mudança"
-git push
-: 2rem;
+    margin-top: 2rem;
     border: none;
     border-radius: 16px;
     overflow: hidden;
